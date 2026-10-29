@@ -1,6 +1,0 @@
-threads: 5
-rate: 10
-timeout_ms: 2000
-jitter_ms: 300
-default_technique: fin
-retries: 1
